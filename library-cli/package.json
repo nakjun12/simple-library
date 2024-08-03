@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "commander": "^12.1.0",
+    "simple-library-junnak": "^1.0.1"
+  },
+  "type": "commonjs",
+  "name": "library-cli-junnak",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "calculate": "src/cli.js"
+  }
+}
