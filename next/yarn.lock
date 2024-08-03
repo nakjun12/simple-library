@@ -2314,10 +2314,15 @@ signal-exit@^4.0.1:
   resolved "https://registry.yarnpkg.com/signal-exit/-/signal-exit-4.1.0.tgz#952188c1cbd546070e2dd20d0f41c0ae0530cb04"
   integrity sha512-bzyZ1e88w9O1iNJbKnOlvYTrWPDl46O1bG0D3XInv+9tkPrxrN8jUUTiFlDkkmKWgn1M6CfIA13SuGqOa9Korw==
 
-simple-library-junnak@^0.0.4:
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/simple-library-junnak/-/simple-library-junnak-0.0.4.tgz#b8cac838862cbd754f2840ef8ec67b640c1096c2"
-  integrity sha512-nGm/5+sGTMv0zi/Amss6+ZqPbeF7oj+K6yBTn3suPwE+xovYQ9yJBgNea9CJHiHbCZF1ysokpXzp9D2rJz4fRQ==
+simple-library-junnak@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/simple-library-junnak/-/simple-library-junnak-0.1.0.tgz#269ee5e8c8f39f311b2d3c4a8772967cf0c0a824"
+  integrity sha512-Gtip5I4iVCdA606xeIOu9qiQ6xsE6kNFygkIZrsImDagWBwI2xqNolAGg+e2D1lGl9Xd41ehKjLBMeUqF21o3g==
+
+simple-library@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/simple-library/-/simple-library-1.1.0.tgz#d6c21ee58bc7228b84ca6cf4face5420444cf37a"
+  integrity sha512-5ZUE8H6s97knw9TZUySmJgKZBCVuYXxEX7jn55xgSKudC7J/EJPppoTMhCopjQwqQZDXtfxMTtX2nXk7I+1xXQ==
 
 slash@^3.0.0:
   version "3.0.0"
@@ -2342,6 +2347,7 @@ streamsearch@^1.1.0:
   integrity sha512-Mcc5wHehp9aXz1ax6bZUyY5afg9u2rv5cqQI3mRrYkGC8rW2hM02jWuwjtL++LS5qinSyhj2QfLyNsuc+VsExg==
 
 "string-width-cjs@npm:string-width@^4.2.0", string-width@^4.1.0:
+  name string-width-cjs
   version "4.2.3"
   resolved "https://registry.yarnpkg.com/string-width/-/string-width-4.2.3.tgz#269c7117d27b05ad2e536830a8ec895ef9c6d010"
   integrity sha512-wKyQRQpjJ0sIp62ErSZdGsjMJWsap5oRNihHhu6G7JVO/9jIB6UyevL+tXuOqrng8j/cxKTWyWUwvSTriiZz/g==
