@@ -1,0 +1,7 @@
+
+/library-module/node_modules
+/library-module/dist
+
+/library-cli/node_modules
+
+/test-project/just-js/node_modules
