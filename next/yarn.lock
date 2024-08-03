@@ -2314,15 +2314,10 @@ signal-exit@^4.0.1:
   resolved "https://registry.yarnpkg.com/signal-exit/-/signal-exit-4.1.0.tgz#952188c1cbd546070e2dd20d0f41c0ae0530cb04"
   integrity sha512-bzyZ1e88w9O1iNJbKnOlvYTrWPDl46O1bG0D3XInv+9tkPrxrN8jUUTiFlDkkmKWgn1M6CfIA13SuGqOa9Korw==
 
-simple-library-junnak@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/simple-library-junnak/-/simple-library-junnak-0.1.0.tgz#269ee5e8c8f39f311b2d3c4a8772967cf0c0a824"
-  integrity sha512-Gtip5I4iVCdA606xeIOu9qiQ6xsE6kNFygkIZrsImDagWBwI2xqNolAGg+e2D1lGl9Xd41ehKjLBMeUqF21o3g==
-
-simple-library@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/simple-library/-/simple-library-1.1.0.tgz#d6c21ee58bc7228b84ca6cf4face5420444cf37a"
-  integrity sha512-5ZUE8H6s97knw9TZUySmJgKZBCVuYXxEX7jn55xgSKudC7J/EJPppoTMhCopjQwqQZDXtfxMTtX2nXk7I+1xXQ==
+simple-library-junnak@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/simple-library-junnak/-/simple-library-junnak-0.1.1.tgz#e12ddcff8279bfb46869750c6fc1807652a5c22e"
+  integrity sha512-lhX3GpBXCwTn7aESI93zssUls6L/H/znkOXqU7+mGUMkI/xxsT5LcY/jKX5eLGz6SWoXH66X5cdXjUvQ5xKYlQ==
 
 slash@^3.0.0:
   version "3.0.0"
