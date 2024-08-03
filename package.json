@@ -10,18 +10,22 @@
   "exports": {
     ".": {
       "import": "./dist/index.js",
-      "require": "./src/index.cjs",
+      "require": "./dist/index.cjs",
       "types": "./dist/inddex.d.ts"
     }
   },
   "scripts": {
-    "prepack": "yarn build:tsc",
-    "build:tsc": "yarn tsc"
+    "prepack": "yarn build",
+    "build": "yarn clean && yarn build:tsc && yarn build:js",
+    "build:tsc": "yarn tsc --emitDeclarationOnly",
+    "build:js": "node build.js",
+    "clean": "rm -rf dist"
   },
   "author": "nakjun <111031253+nakjun12@users.noreply.github.com>",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^22.1.0",
+    "esbuild": "^0.23.0",
     "typescript": "^5.5.4"
   }
 }
