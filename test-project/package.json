@@ -1,0 +1,10 @@
+{
+  "name": "testproject",
+  "version": "1.0.1",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "simple-library-junnak": "^0.0.4"
+  }
+}
