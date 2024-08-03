@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-simple-library-junnak@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/simple-library-junnak/-/simple-library-junnak-0.0.1.tgz#ec1428e5446d4159c531665fffacda58be371043"
-  integrity sha512-NqVmUvrqD3Jk5r24KJ/lpKOKlf0oXpIsKjhnZ7cdpP/PYKg6flM4AycJutESnVoH6XH4eLU+lvdGqbtaSL3j5Q==
+simple-library-junnak@^0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/simple-library-junnak/-/simple-library-junnak-0.0.3.tgz#493ed6b0223f727fef4d1af04a2b19ebcf168353"
+  integrity sha512-ktfmPBV+gA4Kd/DV51ModEtPiabRhGNyjQBeOLCTcNV3sx8F0be8E9FtPTgNc8sJHfNm0nD4xkLZL95rGUgGbQ==
