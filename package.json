@@ -1,13 +1,13 @@
 {
   "name": "simple-library-junnak",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "type": "module",
   "main": "src/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nakjun12/simple-library.git"
   },
-      "exports": {
+  "exports": {
     ".": {
       "import": "./src/index.js",
       "require": "./src/index.cjs"
